@@ -21,8 +21,8 @@ Aplikasi Point of Sale (POS) / Kasir berbasis web yang dibangun menggunakan PHP 
     <td><img src="https://d.top4top.io/p_3726gfflz2.png" alt="Kasir" width="100%"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Produk</b></td>
     <td align="center"><b>Transaksi</b></td>
+    <td align="center"><b>Produk</b></td>
   </tr>
   <tr>
     <td><img src="https://e.top4top.io/p_37266y10g3.png" alt="Produk" width="100%"/></td>
